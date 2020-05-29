@@ -6,4 +6,5 @@ This repo will be used to update the slides by speakers, discussions and other r
 
 * [Website](http://gitcommit.show/)
 * [Organizing Team](http://bit.ly/teamgcs)
+* [Contribute](http://push.gitcommit.show/)
 
