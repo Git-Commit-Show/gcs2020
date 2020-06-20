@@ -1,10 +1,10 @@
-![](https://img.shields.io/badge/Speakers-12-brightgreen)
-![](https://img.shields.io/badge/Venue-Online-brightgreen)
-![](https://img.shields.io/badge/Contributors-37-brightgreen)
-![](https://img.shields.io/badge/Season-02-brightgreen)
-![](https://img.shields.io/badge/Interactive-Yes-brightgreen)
-![](https://img.shields.io/badge/Next%20Show-In%2012%20Days-brightgreen)
-![](https://img.shields.io/badge/Price-Free-brightgreen)
+[![](https://img.shields.io/badge/Speakers-12-brightgreen)](https://gitcommit.show)
+[![](https://img.shields.io/badge/Venue-Online-brightgreen)](https://gitcommit.show)
+[![](https://img.shields.io/badge/Contributors-37-brightgreen)](https://gitcommit.show)
+[![](https://img.shields.io/badge/Season-02-brightgreen)](https://gitcommit.show)
+[![](https://img.shields.io/badge/Interactive-Yes-brightgreen)](https://gitcommit.show)
+[![](https://img.shields.io/badge/Next%20Show-In%2012%20Days-brightgreen)](https://gitcommit.show)
+[![](https://img.shields.io/badge/Price-Free-brightgreen)](https://gitcommit.show)
 
 
 # Info - Git Commit Show 2020  (#GCS2020)
