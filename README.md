@@ -24,6 +24,9 @@ Learn directly from master via interactive live talk
 
 > by Scott Hanselman, Program Manager at Microsoft
 
+[![](https://img.shields.io/badge/%23-Personal%20Branding-blue)](https://gitcommit.show)
+[![](https://img.shields.io/badge/%23-Networking-green)](https://gitcommit.show)
+
 
 **Enabling speed and confidence with "testing"**
 
@@ -31,10 +34,15 @@ Learn directly from master via interactive live talk
 
 * [Link to presentation](https://drive.google.com/file/d/1O1jAQuKeP9U8mKfe-KCYdyuTsofF35ZX/view?usp=sharing)
 
+[![](https://img.shields.io/badge/%23-Testing-lightgrey)](https://gitcommit.show)
+
 
 **Can data science lead us to the grand unified theory of brain function?**
 
 > by Arpan Banerjee, Scientist at National Brain Research Centre
+
+[![](https://img.shields.io/badge/%23-NeuroScience-blueviolet)](https://gitcommit.show)
+[![](https://img.shields.io/badge/%23-DataScience-lightgrey)](https://gitcommit.show)
 
 
 **Mastering web performance audits with Github Actions & LightHouse**
