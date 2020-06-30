@@ -6,7 +6,6 @@ baseurl: # /
 name: Parth Krishna
 email: thenerdsuperuser@gmail.com
 
-
 markdown: kramdown
 highlighter: rouge
 

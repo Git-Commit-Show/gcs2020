@@ -139,16 +139,11 @@ nav
 				font-size: 18px;
 			}
 
-			.social-media
+			.fab, .social, .fas, .far
 			{
-				//margin-top: 8px;
-
-				.fab, .social, .fas, .far
-				{
-					margin-right: 20px;
-					flex: 1;
-					text-decoration: none;
-				}
+				margin-right: 20px;
+				flex: 1;
+				text-decoration: none;
 			}
 		}
 	}
@@ -249,16 +244,12 @@ nav
 					font-size: 15px;
 				}
 
-				.social-media
+				.fab, .fas, .far, .social
 				{
-					//margin-top: 8px;                    
-					.fab, .fas, .far, .social
-					{
-						text-decoration: none;
-						margin-right: 10px;
-						margin-bottom: 10px;
-						flex: 1;
-					}
+					text-decoration: none;
+					margin-right: 10px;
+					margin-bottom: 10px;
+					flex: 1;
 				}
 			}
 		}

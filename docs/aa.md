@@ -1,8 +1,9 @@
 ---
-title: Scott Hanselman
+title: aa
+github: github.com
 image: ./assets/images/scott.jpg
 twitter: https://twitter.com/shanselman
-linkedin: https://linkedin.com/in/scotthanselman
+linkedin: linkedin.com/in/scotthanselman
 layout: home
 ---
 
