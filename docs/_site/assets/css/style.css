@@ -84,64 +84,44 @@ code { background-color: "#282C34"; color: whitesmoke; }
 
 pre { background-color: "#282C34"; color: whitesmoke; }
 
-/*
-*
-CSS for default.html
-*
-*/
+/* CSS for default.html */
 * { margin: 0px; padding: 0px; background: #272822; color: #fff; box-sizing: border-box; }
 
 body { font-family: "Poppins", sans-serif; }
 
-/*
-*
-CSS for logo, navbar.html
-*
-*/
+/* CSS for logo, navbar.html */
 header { display: flex; align-items: center; }
 
 .logo-container, .nav-links { display: flex; }
 
 .logo-container { flex: 1; }
 
-.logo-container .logo { max-width: 100%; max-height: 85%; width: 120px; height: 80px; }
+.logo-container .logo { width: 60px; height: 40px; margin-left: 0.5%; margin-top: 0.3%; }
 
-.logo-container h4.title { display: flex; flex: 1; font-size: 24px; font-family: "Titillium Web", sans-serif; align-self: center; }
+.logo-container h4.title { display: flex; flex: 1; font-size: 20px; margin-left: 4px; font-family: "Titillium Web", sans-serif; align-self: center; }
 
 .logo-container a.url { display: flex; flex: 1; text-decoration: none; }
 
 /* //navbar is disabled for now nav { flex: 1; .nav-links { justify-content: space-around; display: flex; list-style: none; .nav-link { //color: #5f5f79; //font-size: 18px; text-decoration: none; } } } */
-/*
-*
-CSS for home.html
-*
-*/
+/* CSS for home.html */
 .presentation { display: flex; width: 90%; margin: auto; min-height: 80vh; align-items: center; }
 
-.presentation .introduction { flex: 1; }
+.presentation .introduction { flex: 2; }
 
-.presentation .introduction .intro-text h1 { font-size: 44px; font-weight: 500; }
+.presentation .introduction .intro-text h1 { font-size: 30px; font-weight: 500; }
 
-.presentation .introduction .intro-text p { margin-top: 5px; font-size: 22px; }
+.presentation .introduction .intro-text p { margin-top: 5px; font-size: 18px; }
 
 .presentation .introduction .intro-text .social-media .fab, .presentation .introduction .intro-text .social-media .social, .presentation .introduction .intro-text .social-media .fas, .presentation .introduction .intro-text .social-media .far { margin-right: 20px; flex: 1; text-decoration: none; }
 
 .presentation .cover { flex: 1; display: flex; justify-content: center; padding-bottom: 20px; /*height: 60vh;*/ }
 
-/*
-*
-CSS for post.html 
-*
-*/
+/* CSS for post.html  */
 .posts .post-link { text-decoration: none; padding: 5px 0px 3px 20px; }
 
 .posts .blog-title { padding: 35px 0px 20px 20px; }
 
-/*
-*
-CSS for post.html 
-*
-*/
+/* CSS for post.html  */
 .center { margin: auto; width: 70%; }
 
 .heading { display: flex; }
