@@ -10,9 +10,6 @@
 				</p>
 
 
-				{% for page in site.pages %}
-
-
 						{% if page.twitter %}
 								{% capture twitter %}
 										{{ page.twitter }}
@@ -36,8 +33,6 @@
 						{% include linkedin.html linkedin_url=linkedin %}
 						{% endif %}
 
-
-				{% endfor %}
 
 			</div>
 		</div>
