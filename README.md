@@ -113,7 +113,7 @@ Demo of latest breakthroughs happening around the world and the people behind th
 
 **How I made quantum science quicker with fine spirits**
 
-> by Sumner Alperin-Lea
+> by Sumner Alperin-Lea, Ph.D. Researcher at University of Toronto
 
 [![](https://img.shields.io/badge/%23-Quantum%20Comptuing-lightgrey)](https://gitcommit.show)
 
@@ -130,6 +130,15 @@ Demo of latest breakthroughs happening around the world and the people behind th
 > by Sandeep Giri, Founder at CloudxLab, Ex-Amazon
 
 [![](https://img.shields.io/badge/%23-Computer%20Vision-lightgrey)](https://gitcommit.show)
+
+
+
+**Ramudroid: An autonomous robot, progress since the last showcase at Git Commit Show**
+
+> by Altanai Bisht
+
+[![](https://img.shields.io/badge/%23-Robotics-lightgrey)](https://gitcommit.show)
+
 
 
 ## Career Talk
