@@ -12,7 +12,11 @@ This repo will be used to update the slides by speakers, discussions and other r
 
 ![Banner Image](https://github.com/Git-Commit-Show/gcs2020/raw/master/banner_left%201500x300 "GCS2020 Banner")
 
-We are working on uploading the recordings, might take some time.
+<hr>
+* [Website](http://gitcommit.show/)
+* [Current Organizing Team](http://bit.ly/teamgcs)
+* [Contribute](http://push.gitcommit.show/)
+<hr>
 
 ## Live Masterclass Session
 
@@ -138,6 +142,8 @@ Demo of latest breakthroughs happening around the world and the people behind th
 > by Altanai Bisht
 
 [![](https://img.shields.io/badge/%23-Robotics-lightgrey)](https://gitcommit.show)
+
+* [Link to presentation](https://drive.google.com/file/d/13074y_XEaS4Nw-JB9M2ikR9UyaQvcXpE/view?usp=sharing)
 
 
 
