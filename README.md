@@ -145,7 +145,15 @@ Career insights for everyone and anyone
 [![](https://img.shields.io/badge/%23-Leadership-lightgrey)](https://gitcommit.show)
 
 
-**Becoming Developer Advocate for developers**
+**Becoming Product Manager, a guide for developers**
+
+> by Gaurav Nemade, Product Manager at Google AI
+
+[![](https://img.shields.io/badge/%23-Career-lightgrey)](https://gitcommit.show)
+[![](https://img.shields.io/badge/%23-Product%20Management-lightgrey)](https://gitcommit.show)
+
+
+**Becoming Developer Advocate, a guide for developers**
 
 > by Saurabh Gupta, Sr. Developer Advocate at Digital Ocean
 
