@@ -13,6 +13,7 @@ This repo will be used to update the slides by speakers, discussions and other r
 ![Banner Image](https://github.com/Git-Commit-Show/gcs2020/raw/master/banner_left%201500x300 "GCS2020 Banner")
 
 <hr>
+
 * [Website](http://gitcommit.show/)
 * [Current Organizing Team](http://bit.ly/teamgcs)
 * [Contribute](http://push.gitcommit.show/)
