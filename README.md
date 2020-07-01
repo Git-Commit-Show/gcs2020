@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Speakers-12-brightgreen)](https://gitcommit.show)
+[![](https://img.shields.io/badge/Speakers-17-brightgreen)](https://gitcommit.show)
 [![](https://img.shields.io/badge/Venue-Online-brightgreen)](https://gitcommit.show)
 [![](https://img.shields.io/badge/Contributors-37-brightgreen)](https://gitcommit.show)
 [![](https://img.shields.io/badge/Season-02-brightgreen)](https://gitcommit.show)
