@@ -1,9 +1,9 @@
 ---
 title: aa
-github: github.com
-image: ./assets/images/scott.jpg
+github: https://github.com
+image: https://images.unsplash.com/photo-1593336458562-e93ad3df8a2c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
 twitter: https://twitter.com/shanselman
-linkedin: linkedin.com/in/scotthanselman
+linkedin: https://linkedin.com/in/scotthanselman
 layout: home
 ---
 
