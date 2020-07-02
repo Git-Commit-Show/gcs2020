@@ -1,5 +1,7 @@
 ---
 title: Scott Hanselman
+position: Program Manager
+organization: Microsoft
 image: ./assets/images/scott.jpg
 twitter: https://twitter.com/shanselman
 linkedin: https://linkedin.com/in/scotthanselman
