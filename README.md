@@ -6,12 +6,10 @@
 [![](https://img.shields.io/badge/Price-Free-brightgreen)](https://gitcommit.show)
 
 
-# Info - Git Commit Show 2020  (#GCS2020)
-
 ![Banner Image](https://github.com/Git-Commit-Show/gcs2020/raw/master/banner_center%201500x300.jpeg.jpeg "GCS2020 Banner")
 
 <p align="center">
-	This repo hosts slides by speakers, discussions and other relevant information neeeded for attendees during and after the conference
+	This repo hosts slides by speakers, discussions and other relevant information neeeded for attendees during and after the conference <b>Git Commit Show 2020</b>
 </p>
 <p align="center">
 	<a href="http://gitcommit.show/">:link: Website</a>&nbsp;&nbsp;&nbsp;
