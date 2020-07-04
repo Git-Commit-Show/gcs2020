@@ -10,7 +10,7 @@
 
 This repo will be used to update the slides by speakers, discussions and other relevant information neeeded for the conference day
 
-![Banner Image](https://github.com/Git-Commit-Show/gcs2020/raw/master/banner_left%201500x300 "GCS2020 Banner")
+![Banner Image](https://github.com/Git-Commit-Show/gcs2020/raw/master/banner_center%201500x300.jpeg.jpeg "GCS2020 Banner")
 
 <p align="center">
 	<a href="http://gitcommit.show/">:link: Website</a>&nbsp;&nbsp;&nbsp;
