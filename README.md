@@ -8,10 +8,11 @@
 
 # Info - Git Commit Show 2020  (#GCS2020)
 
-This repo will be used to update the slides by speakers, discussions and other relevant information neeeded for the conference day
-
 ![Banner Image](https://github.com/Git-Commit-Show/gcs2020/raw/master/banner_center%201500x300.jpeg.jpeg "GCS2020 Banner")
 
+<p align="center">
+	This repo hosts slides by speakers, discussions and other relevant information neeeded for attendees during and after the conference
+</p>
 <p align="center">
 	<a href="http://gitcommit.show/">:link: Website</a>&nbsp;&nbsp;&nbsp;
 	<a href="http://bit.ly/teamgcs">:busts_in_silhouette: Team</a>&nbsp;&nbsp;&nbsp;
