@@ -12,12 +12,25 @@ This repo will be used to update the slides by speakers, discussions and other r
 
 ![Banner Image](https://github.com/Git-Commit-Show/gcs2020/raw/master/banner_left%201500x300 "GCS2020 Banner")
 
+<p align="center">
+	<a href="http://gitcommit.show/">:link: Website</a>&nbsp;&nbsp;&nbsp;
+	<a href="http://bit.ly/teamgcs">:busts_in_silhouette: Team</a>&nbsp;&nbsp;&nbsp;
+	<a href="http://push.gitcommit.show/">:technologist: Volunteer</a>&nbsp;&nbsp;&nbsp;
+  <a href="http://push.gitcommit.show/">:speaking_head: Speak</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCw0-LetPQsqO70O-8QN8MVA?sub_confirmation=1">YouTube</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/Invide_Labs">Twitter</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/r/GitCommitShow/">Reddit</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/gitcommitshow">Telegram</a>
+</p>
+
 <hr>
 
-* [Website](http://gitcommit.show/)
-* [Current Organizing Team](http://bit.ly/teamgcs)
-* [Contribute](http://push.gitcommit.show/)
-<hr>
+* [Live Masterclass Sessions](#live-masterclass-session)
+* [Live Breakthrough Showcase Sessions](#live-breakthrough-showcase-session)
+* [Career Talk Sessions](#career-talk-session)
 
 ## Live Masterclass Session
 
@@ -34,7 +47,7 @@ Learn directly from master via interactive live talk
 
 **Enabling speed and confidence with "testing"**
 
-> by Saarthak Vats, VP Engineering at Noon.
+> by Saarthak Vats, VP Engineering at Noon
 
 * [Link to presentation](https://drive.google.com/file/d/1O1jAQuKeP9U8mKfe-KCYdyuTsofF35ZX/view?usp=sharing)
 
@@ -90,6 +103,8 @@ Learn directly from master via interactive live talk
 
 > by Nilesh Trivedi, Engineering Manager at ClearTax
 
+* [Full recording of the masterclass](https://youtu.be/vmshzcmTeB8)
+
 [![](https://img.shields.io/badge/%23-Decentralized%20Comptuing-lightgrey)](https://gitcommit.show)
 [![](https://img.shields.io/badge/%23-Social%20Networking-lightgrey)](https://gitcommit.show)
 
@@ -110,6 +125,7 @@ Demo of latest breakthroughs happening around the world and the people behind th
 > by Roger Dannenberg, Professor at Carnegie Mellon,  Musician, Composer
 
 * [Link to presentation](https://drive.google.com/file/d/11nENFp9xOtC_5rUYy4CtWw6WUOyPohv7/view?usp=sharing)
+* [Full recording of the showcase](https://youtu.be/OpH33P99UB8)
 
 [![](https://img.shields.io/badge/%23-#HCI-lightgrey)](https://gitcommit.show)
 [![](https://img.shields.io/badge/%23-Cognitive%20Science-lightgrey)](https://gitcommit.show)
@@ -126,6 +142,8 @@ Demo of latest breakthroughs happening around the world and the people behind th
 **How I made an app that alerts when you touch your face**
 
 > by Maya Farber Brodsky, 16 yr old student from Tel Aviv University
+
+* [Full recording of the showcase](https://youtu.be/GClbYmCREU4)
 
 [![](https://img.shields.io/badge/%23-Computer%20Vision-lightgrey)](https://gitcommit.show)
 
