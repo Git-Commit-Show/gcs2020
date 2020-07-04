@@ -195,7 +195,17 @@ Career insights for everyone and anyone
 
 
 
-* [Website](http://gitcommit.show/)
-* [Current Organizing Team](http://bit.ly/teamgcs)
-* [Contribute](http://push.gitcommit.show/)
+<p align="center">
+	<a href="http://gitcommit.show/">:link: Website</a>&nbsp;&nbsp;&nbsp;
+	<a href="http://bit.ly/teamgcs">:busts_in_silhouette: Team</a>&nbsp;&nbsp;&nbsp;
+	<a href="http://push.gitcommit.show/">:technologist: Volunteer</a>&nbsp;&nbsp;&nbsp;
+  <a href="http://push.gitcommit.show/">:speaking_head: Speak</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCw0-LetPQsqO70O-8QN8MVA?sub_confirmation=1">YouTube</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/Invide_Labs">Twitter</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/r/GitCommitShow/">Reddit</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/gitcommitshow">Telegram</a>
+</p>
 
