@@ -194,6 +194,13 @@ Career insights for everyone and anyone
 [![](https://img.shields.io/badge/%23-DevRel-lightgrey)](https://gitcommit.show)
 
 
+<hr>
+
+Git Commit Show is the leading online tech conference where senior engineers, researchers, scientists and professors meet while being at home.
+A 2-day long, online meetup where carefully curated senior developers and researchers share their knowledge and breakthrough projects.
+Unlike other online conferences, it is fully interactive with opportunities to connect with speakers and fellow attendees face to face.
+Git Commit Show started in 2019 to provide a better alternative to physical conferences by being open, free and inclusive of people who come from remote locations and modest backgrounds.
+
 
 <p align="center">
 	<a href="http://gitcommit.show/">:link: Website</a>&nbsp;&nbsp;&nbsp;
