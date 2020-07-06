@@ -142,7 +142,9 @@ Demo of latest breakthroughs happening around the world and the people behind th
 
 > by Maya Farber Brodsky, 16 yr old student from Tel Aviv University
 
+* [Github repo of this open source project](https://github.com/mfarberbrodsky/dont-touch-your-face)
 * [Full recording of the showcase](https://youtu.be/GClbYmCREU4)
+* [Presentation in pdf format](https://drive.google.com/file/d/1xxOib_9dr3a88GRk8_oO77NMYWVwG710/view?usp=sharing)
 
 [![](https://img.shields.io/badge/%23-Computer%20Vision-lightgrey)](https://gitcommit.show)
 
