@@ -6,28 +6,15 @@
 [![](https://img.shields.io/badge/Price-Free-brightgreen)](https://gitcommit.show)
 
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-
-
 <!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
 
 <!-- links to your social media accounts -->
-<!-- update these accordingly -->
 
-[1]: http://www.twitter.com/carlsednaoui
+[1]: http://www.twitter.com/Invide_Labs
 [2]: http://www.github.com/Git-Commit-Show
 
 
@@ -44,12 +31,8 @@
   <a href="http://push.gitcommit.show/">:speaking_head: Speak</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCw0-LetPQsqO70O-8QN8MVA?sub_confirmation=1">YouTube</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/Invide_Labs">Twitter</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/r/GitCommitShow/">Reddit</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/gitcommitshow">Telegram</a>
-</p>
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
 
 <hr>
 
