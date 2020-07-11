@@ -8,6 +8,8 @@
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
 
 
 <!-- links to social media icons -->
@@ -15,13 +17,17 @@
 [1.1]: https://img.icons8.com/material/48/000000/twitter-squared.png (Tweet to us!)
 [2.1]: https://img.icons8.com/material-rounded/48/000000/github.png (Contribute to our repositories)
 [3.1]: https://img.icons8.com/material/48/000000/youtube--v2.png (Watch our videos)
+[4.1]: https://img.icons8.com/material/48/000000/reddit.png (Check out the reddit community)
+[5.1]: https://img.icons8.com/material/24/000000/telegram-app.png (Add us on Telegram)
 
 
 <!-- links to your social media accounts -->
 
 [1]: https://www.twitter.com/Invide_Labs
 [2]: https://www.github.com/Git-Commit-Show
-[3]: https://youtube.com
+[3]: https://www.youtube.com/channel/UCw0-LetPQsqO70O-8QN8MVA?sub_confirmation=1
+[4]: https://www.reddit.com/r/GitCommitShow/
+[5]: https://t.me/gitcommitshow
 
 
 
