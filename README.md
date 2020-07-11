@@ -222,7 +222,7 @@ Unlike other online conferences, it is fully interactive with opportunities to c
 Git Commit Show started in 2019 to provide a better alternative to physical conferences by being open, free and inclusive of people who come from remote locations and modest backgrounds.
 
 
-<p align="center">
+<p align="left">
 	<a href="http://gitcommit.show/">:link: Website</a>&nbsp;&nbsp;&nbsp;
 	<a href="http://bit.ly/teamgcs">:busts_in_silhouette: Team</a>&nbsp;&nbsp;&nbsp;
 	<a href="http://push.gitcommit.show/">:technologist: Volunteer</a>&nbsp;&nbsp;&nbsp;
