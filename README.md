@@ -18,7 +18,7 @@
 [2.1]: https://img.icons8.com/material-rounded/48/000000/github.png (Contribute to our repositories)
 [3.1]: https://img.icons8.com/material/48/000000/youtube--v2.png (Watch our videos)
 [4.1]: https://img.icons8.com/material/48/000000/reddit.png (Check out the reddit community)
-[5.1]: https://img.icons8.com/material/24/000000/telegram-app.png (Add us on Telegram)
+[5.1]: https://img.icons8.com/material/48/000000/telegram-app.png (Add us on Telegram)
 
 
 <!-- links to your social media accounts -->
