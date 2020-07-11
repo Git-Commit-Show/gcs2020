@@ -5,8 +5,6 @@
 [![](https://img.shields.io/badge/Interactive-Yes-brightgreen)](https://gitcommit.show)
 [![](https://img.shields.io/badge/Price-Free-brightgreen)](https://gitcommit.show)
 
-<br/>
-
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
