@@ -23,12 +23,11 @@
 
 <!-- links to your social media accounts -->
 
-[1]: https://www.twitter.com/Invide_Labs
-[2]: https://www.github.com/Git-Commit-Show
-[3]: https://www.youtube.com/channel/UCw0-LetPQsqO70O-8QN8MVA?sub_confirmation=1
 [4]: https://www.reddit.com/r/GitCommitShow/
+[3]: https://www.youtube.com/channel/UCw0-LetPQsqO70O-8QN8MVA?sub_confirmation=1
+[2]: https://www.github.com/Git-Commit-Show
 [5]: https://t.me/gitcommitshow
-
+[1]: https://www.twitter.com/Invide_Labs
 
 
 ![Banner Image](https://github.com/Git-Commit-Show/gcs2020/raw/master/banner_center%201500x300.jpeg.jpeg "GCS2020 Banner")
@@ -197,6 +196,7 @@ Career insights for everyone and anyone
 [![](https://img.shields.io/badge/%23-Career-lightgrey)](https://gitcommit.show)
 [![](https://img.shields.io/badge/%23-Leadership-lightgrey)](https://gitcommit.show)
 
+* [Link to presentation](https://drive.google.com/file/d/1Ps2ynFB09ypD20JYyFcDyWUTjlAH63Qa/view?usp=sharing)
 
 **Becoming Product Manager, a guide for developers**
 
