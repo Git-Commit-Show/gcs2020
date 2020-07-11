@@ -197,6 +197,7 @@ Career insights for everyone and anyone
 [![](https://img.shields.io/badge/%23-Leadership-lightgrey)](https://gitcommit.show)
 
 * [Link to presentation](https://drive.google.com/file/d/1Ps2ynFB09ypD20JYyFcDyWUTjlAH63Qa/view?usp=sharing)
+* [Full recording of the talk](https://youtu.be/fg3sFnPsg8k)
 
 **Becoming Product Manager, a guide for developers**
 
