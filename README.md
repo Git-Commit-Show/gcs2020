@@ -5,11 +5,16 @@
 [![](https://img.shields.io/badge/Interactive-Yes-brightgreen)](https://gitcommit.show)
 [![](https://img.shields.io/badge/Price-Free-brightgreen)](https://gitcommit.show)
 
+<br/>
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+
 
 <!-- links to social media icons -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (Tweet to us!)
+[2.1]: http://i.imgur.com/0o48UoR.png (Contribute to our repositories)
 
 
 <!-- links to your social media accounts -->
@@ -30,9 +35,6 @@
 	<a href="http://push.gitcommit.show/">:technologist: Volunteer</a>&nbsp;&nbsp;&nbsp;
   <a href="http://push.gitcommit.show/">:speaking_head: Speak</a>&nbsp;&nbsp;&nbsp;
 </p>
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
 
 <hr>
 
