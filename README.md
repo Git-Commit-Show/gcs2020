@@ -7,18 +7,21 @@
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
+[![alt text][3.1]][3]
 
 
 <!-- links to social media icons -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (Tweet to us!)
-[2.1]: http://i.imgur.com/0o48UoR.png (Contribute to our repositories)
+[1.1]: https://img.icons8.com/material/48/000000/twitter-squared.png (Tweet to us!)
+[2.1]: https://img.icons8.com/material-rounded/48/000000/github.png (Contribute to our repositories)
+[3.1]: https://img.icons8.com/material/48/000000/youtube--v2.png (Watch our videos)
 
 
 <!-- links to your social media accounts -->
 
-[1]: http://www.twitter.com/Invide_Labs
-[2]: http://www.github.com/Git-Commit-Show
+[1]: https://www.twitter.com/Invide_Labs
+[2]: https://www.github.com/Git-Commit-Show
+[3]: https://youtube.com
 
 
 
