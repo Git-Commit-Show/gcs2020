@@ -229,10 +229,9 @@ Git Commit Show started in 2019 to provide a better alternative to physical conf
   <a href="http://push.gitcommit.show/">:speaking_head: Speak</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCw0-LetPQsqO70O-8QN8MVA?sub_confirmation=1">YouTube</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/Invide_Labs">Twitter</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/r/GitCommitShow/">Reddit</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/gitcommitshow">Telegram</a>
-</p>
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
 
